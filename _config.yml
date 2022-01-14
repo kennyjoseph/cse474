@@ -1,19 +1,18 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Introduction to Machine Learning (CSE 5/474)
+course_description: "This course is an introductory course to the field of machine learning. It covers basic concepts, including mathematical underpinnings of standard models as well as the basic skills one needs to begin designing and using ethical machine learning approaches."
+course_semester: "Spring 2022"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/cse474" # the subpath of your site, e.g. /blog/
+url: "http://kennyjoseph.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "University at Buffalo"
+schoolurl: "https://cse.buffalo.edu"
+twitter_username: _kenny_joseph
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    335 Davis Hall
+    Buffalo, NY 14260
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
