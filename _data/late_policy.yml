@@ -1,4 +1,2 @@
 policies:
-  - You have free 8 late days.
-  - You can use late days for assignments. A late day extends the deadline 24 hours.
-  - Once you have used all 8 late days, the penalty is 10% for each additional late day.
+  - You are allowed 5 total late days across all programming assignments (including the annotation assignment), without penalty. After those five late days, you will be penalized 25% for each day that your submission is late.

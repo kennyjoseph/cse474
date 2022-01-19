@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2022-02-01
-title: Course Overview and Your First (?) Machine Learning Model
-tldr: "A weclome to the world of machine learning: the good, the bad, and the ugly."
+date: 2022-02-10
+title: Regression... Linear Regression.
+tldr: "xxx"
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true
 links: 
