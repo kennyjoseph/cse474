@@ -24,15 +24,15 @@ Tuesdays and Thursdays, 5:00-6:20PM, in NSC 201
 
 | Who?  | When? | Where?             |
 |-------|-------|--------------------|
-| Kenny | TBD     | Virtually, on Zoom (For the beginning of the semester, at least) |
-| Navid | TBD     | Virtually, on Zoom (For the beginning of the semester, at least) |
-| TBD    | TBD    | Virtually, on Zoom (For the beginning of the semester, at least)                  |
+| Kenny | Friday, 12-2PM   | Virtually, on Zoom (For the beginning of the semester, at least) |
+| Navid | Tuesday, Thursday, 11:00AM-12:30PM    | Virtually, on Zoom (For the beginning of the semester, at least) |
+| Yincheng   | Wednesday, 10:00AM-12:30PM    | Virtually, on Zoom (For the beginning of the semester, at least). Link On UBLearns|
 
 
 ### Exams
 
 - **Mid-term Exam: In class, March 17th**
-- **Final Exam: TBD**
+- **Final Exam: Tuesday, May 17th. 7:15PM, in NSC 201**
 
 
 No makeup exams will be given except in provably extreme circumstances. Please note the following additional policies/suggestions with respect to makeup exams:
