@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-02-08
-title: Probability and Statistics cont., Python
+title: Regression... Linear Regression.
 tldr: "xxx"
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true

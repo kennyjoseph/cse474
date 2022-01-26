@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-02-10
-title: Regression... Linear Regression.
+title: Regression... Linear Regression (cont.).
 tldr: "xxx"
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true

@@ -10,14 +10,19 @@ permalink: /materials/
 
 I will cover content from some of these in the first two weeks of lecture, but these materials are handy if you want to brush up on the fundamentals.
 
+This website also has a ton of phenomenal resources for learning python, probability, and statistics.
+
 ### Probability and Stats
 - [Seeing Theory](https://seeing-theory.brown.edu/probability-distributions/index.html)
 - [Khan Academy open AP Stats Course](https://www.khanacademy.org/math/ap-statistics)
 - [CMU's ML course, math primer](http://www.cs.cmu.edu/~mgormley/courses/10601/slides/10601-math-resources.pdf)
+- [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
+- [Introduction to Probability Textbook](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
 
 ### Linear Algebra
 - [The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
 - [Three Blue One Brown Course on Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown) 
+- [The matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 ### Python programming
 - [The official python3 tutorial](https://docs.python.org/3/tutorial/index.html)
@@ -47,4 +52,5 @@ I found inspiration for our corse from these courses, so you might too!
 - [Introduction to Machine Learning (CMU 10-301)](http://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html)
 - [Dr. Srihari's version of this course](https://cedar.buffalo.edu/~srihari/CSE574/)
 - [Dr. Varun Chandola's version of this course](https://mlcourse-ub.readthedocs.io/en/latest/docs.html)
-
+- [Introduction to Probability Textbook](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
+- [Bayesian Methods for Hackers](https://nbviewer.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb)

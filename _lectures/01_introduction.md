@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-02-01
-title: Course Overview and Your First (?) Machine Learning Model
+title: Course Overview
 tldr: "A weclome to the world of machine learning: the good, the bad, and the ugly."
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true
@@ -13,5 +13,8 @@ links:
     # - url: https://google.com
     #   name: slides
 ---
-<!-- **Suggested Readings:** -->
-<!-- - [Readings 1](http://example.com) -->
+ **Suggested Readings:** 
+- [CIML, Chapter 1](hhttp://ciml.info/dl/v0_99/ciml-v0_99-all.pdf)
+- [Atri's 440 Pipeline Walkthrough](http://www-student.cse.buffalo.edu/~atri/algo-and-society/support/notes/compas/index.html)
+- [Quick "What is ML" Video](https://youtu.be/cKxRvEZd3Mw?t=25)
+- [*Important* Alternative "What is ML" Video](https://www.youtube.com/watch?v=l85TUzNbnPc)
