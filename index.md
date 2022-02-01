@@ -107,6 +107,7 @@ Incompletes (the grade of “I”) will not in general be given. This is reserve
 
 Students in 574 will have additional questions on their programming assignments. These will usually target a deeper understanding of the mathematical concepts underpinning the assignments.  Students in 474 will be able to answer these questions for a small amount of extra credit.
 
+
 ## Critical Campus Resources
 
 ### Sexual Violence

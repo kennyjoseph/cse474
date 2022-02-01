@@ -40,7 +40,7 @@ And, some other (free online) books that you may find useful, and/or that we may
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 - [Statistical Learning with Sparsity](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf)
-
+- [](http://home.ustc.edu.cn/~zt001062/MaStmaterials/George%20Casella&Roger%20L.Berger--Statistical%20Inference.pdf)
 
 ## Materials from other classes you might find useful
 
@@ -48,7 +48,7 @@ I found inspiration for our corse from these courses, so you might too!
 
 - [Stanford CS221: AI (Autumn 2019)](https://stanford-cs221.github.io/autumn2019/)
 - [Sebastian Raschka's Introduction to Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html)
-- [Cornell's Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/page18/)
+- [Cornell's Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote01_MLsetup.html)
 - [Introduction to Machine Learning (CMU 10-301)](http://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html)
 - [Dr. Srihari's version of this course](https://cedar.buffalo.edu/~srihari/CSE574/)
 - [Dr. Varun Chandola's version of this course](https://mlcourse-ub.readthedocs.io/en/latest/docs.html)
