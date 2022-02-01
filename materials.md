@@ -6,7 +6,13 @@ permalink: /materials/
 
 <!-- {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}-->
 
-## Intro stuff
+## Campus Links
+Thanks [Professor Winikus](http://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/winikus-jennifer.html)!
+- [General Info (Spr22)](https://docs.google.com/presentation/d/1wOF33jmzQGX2_127v9uRjkJBTqTZgfa1/edit?usp=sharing&ouid=111923423641848323580&rtpof=true&sd=true)
+- [Health and Wellbeing](https://docs.google.com/presentation/d/1X4FqUjOCurGJg_Idk3TgVA3mzt0n7_VoDM05UMKuZTs/edit?usp=sharing)
+- [Generic Useful Links](https://docs.google.com/document/d/1-6F9ibKN5-VZmZ-1O9OrvGjlIwj6bEnrx-eRy0wbCkU/edit?usp=sharing)
+
+## Intro stuff for class
 
 I will cover content from some of these in the first two weeks of lecture, but these materials are handy if you want to brush up on the fundamentals.
 
@@ -28,7 +34,7 @@ This website also has a ton of phenomenal resources for learning python, probabi
 - [The official python3 tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Sebastian Raschka's notebook on intro to scientific computing](https://github.com/rasbt/stat451-machine-learning-fs20/blob/master/L04/04_scipython__code.ipynb)
 - [Minitorch, to help understand deep learning tools we will use later in the semester](https://github.com/minitorch/minitorch)
-
+- [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Books
 
