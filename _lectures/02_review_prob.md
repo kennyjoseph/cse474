@@ -6,10 +6,10 @@ tldr: "Review - Syllabus, Probability, and some python"
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true
 links: 
-    # - url: /static_files/presentations/lec.zip
-    #   name: notes
-    # - url: /static_files/presentations/code.zip
-    #   name: codes
+    - url: /static_files/lecture_notes/021_Probability_Review.html
+        name: notes
+    - url: /static_files/lecture_notes/022_Stats_review.html
+       name: notes
     # - url: https://google.com
     #   name: slides
 ---
