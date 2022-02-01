@@ -7,9 +7,9 @@ thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true
 links: 
     - url: /static_files/lecture_notes/021_Probability_Review.html
-        name: notes
+      name: notes (prob)
     - url: /static_files/lecture_notes/022_Stats_review.html
-       name: notes
+      name: notes (stat)
     # - url: https://google.com
     #   name: slides
 ---
