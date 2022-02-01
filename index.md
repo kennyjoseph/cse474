@@ -77,11 +77,11 @@ In general, this course will require knowledge of 1) python programming, 2) prob
 
 ### Components
 
-- [Weekly quizzes using UBLearns](./quizzes) (12, 1.5% each) – 15%; most quizzes will be multiple choice.
+- [Weekly quizzes using UBLearns](./quizzes) (12, 1.5% each) – 15%; most quizzes will be multiple choice. Quizzes are released on Tuesday at 12:00am and due on Monday at 11:59PM the following week.  Weekly Quiz 0 is a separate quiz, worth 1% of your grade.
 - [Programming Assignments (4, 10% each)](./assignments) – 40%; all assignments will be assigned and submitted as jupyter notebooks. 
 - [Annotation Assignment (1)](./assignments) - 10%; manual annotation of data and an assessment of those manual annotations.
 - Mid-term Exam (open book/notes) – 15%
-- Final Exam (open book/notes) – 20%
+- Final Exam (open book/notes) – 19%
 - **Programming assignment grades are subject to a 75% multiplier based on an end-of-the-semester peer review process. Thus, if for example, your group scores 100% on all assignments, but your teammates rate you as doing 0% of the work, you will receive 10 out of the 40 points.s**
 
 ### Scores (Tentative)
