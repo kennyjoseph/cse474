@@ -4,7 +4,7 @@ layout: home
 
 # Syllabus
 
-**This document is subject to slight to moderate changes before the first day of class.**
+**This document is subject to slight to moderate changes based on feedback from the class.**
 
 Please read this document! Or at least use it as a reference. I have tried to make it concise, informative, and clear, but please let me know with your questions so that I can improve it.
 
@@ -52,7 +52,7 @@ Rather than emailing questions to the teaching staff, I encourage you to post yo
 
 Find our class signup link [here](https://piazza.com/buffalo/spring2022/cse574cse474).
 
-You will need to sign up for Piazza. To do so, go to the sign up page .
+You will need to sign up for Piazza. To do so, go to the sign up page.
 
 Some notes on Piazza use:
 - You can post anonymously but note that you will be anonymous to students only. Your identity will be known to me and the TAs.
@@ -64,7 +64,7 @@ Some notes on Piazza use:
 ### Other
 
 - [UBLearns](https://ublearns.buffalo.edu/) will be used to manage assignment submissions and grades.
-- [Class Github]()
+- [Class Github - link forthcoming]()
 - [Schedule](./schedule)
 
 ## Prerequisites
@@ -82,6 +82,7 @@ In general, this course will require knowledge of 1) python programming, 2) prob
 - [Annotation Assignment (1)](./assignments) - 10%; manual annotation of data and an assessment of those manual annotations.
 - Mid-term Exam (open book/notes) – 15%
 - Final Exam (open book/notes) – 20%
+- **Programming assignment grades are subject to a 75% multiplier based on an end-of-the-semester peer review process. Thus, if for example, your group scores 100% on all assignments, but your teammates rate you as doing 0% of the work, you will receive 10 out of the 40 points.s**
 
 ### Scores (Tentative)
 
