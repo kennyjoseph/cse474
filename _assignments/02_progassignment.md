@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2022-02-21T11:59:59+4:30
-title: 'Programming Assignment #2 - Regression modeling and evaluation'
+title: 'Programming Assignment #2 - Implementing Prediction Experiments'
 hide_from_announcments: true
 # pdf: /static_files/assignments/asg.pdf
 # attachment: /static_files/assignments/asg.zip
