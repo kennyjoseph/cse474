@@ -6,8 +6,8 @@ tldr: "A weclome to the world of machine learning: the good, the bad, and the ug
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true
 links: 
-    # - url: /static_files/presentations/lec.zip
-    #   name: notes
+    - url: /static_files/presentations/l1.pdf
+      name: slides
     # - url: /static_files/presentations/code.zip
     #   name: codes
     # - url: https://google.com
