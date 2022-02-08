@@ -8,7 +8,7 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lecture_notes/021_Probability_Review.html
       name: notes
-    - url: /static_files/lecture_notes/l2.pdf
+    - url: /static_files/presentations/l2.pdf
       name: slides
     # - url: https://google.com
     #   name: slides
@@ -17,3 +17,5 @@ links:
 - [The course syllabus](./syllabus)
 - [Seeing Theory, Probability/Stats Review](https://seeing-theory.brown.edu/probability-distributions/index.html)
 - [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
+
+
