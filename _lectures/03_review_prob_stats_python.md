@@ -10,7 +10,7 @@ links:
       name: notes (stat)
     - url: /static_files/notebooks/03_LinearRegression.ipynb
       name: notebook (regression)
-    - url: static_files/notebooks/03_Realworld_example.ipynb
+    - url: /static_files/notebooks/03_Realworld_example.ipynb
       name: notebook (demo)
     - url: /static_files/data/covid_local_news.csv
       name: COVID news data
