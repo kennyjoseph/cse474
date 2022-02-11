@@ -24,7 +24,7 @@ Tuesdays and Thursdays, 5:00-6:20PM, in NSC 201
 
 | Who?  | When? | Where?             |
 |-------|-------|--------------------|
-| Kenny | Friday, 12-2PM   | Virtually, on Zoom (For the beginning of the semester, at least) |
+| Kenny | On Piazza  | Virtually, on Zoom (For the beginning of the semester, at least) |
 | Navid | Tuesday, Thursday, 11:00AM-12:30PM    | Virtually, on Zoom (For the beginning of the semester, at least) |
 | Yincheng   | Wednesday, 10:00AM-12:30PM    | Virtually, on Zoom (For the beginning of the semester, at least). Link On UBLearns|
 

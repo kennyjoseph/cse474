@@ -35,7 +35,7 @@ This website also has a ton of phenomenal resources for learning python, probabi
 - [Sebastian Raschka's notebook on intro to scientific computing](https://github.com/rasbt/stat451-machine-learning-fs20/blob/master/L04/04_scipython__code.ipynb)
 - [Minitorch, to help understand deep learning tools we will use later in the semester](https://github.com/minitorch/minitorch)
 - [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
+- [DLab @ Berkeley's Computational Social Science](https://github.com/dlab-berkeley/Computational-Social-Science-Training-Program)
 ## Books
 
 There is no required course textbook. However, I will at times suggest readings from  [Hal Daumé III Course in Machine Learning Book](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf).

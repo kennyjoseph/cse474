@@ -14,7 +14,7 @@ links:
       name: notebook (demo)
     - url: /static_files/data/covid_local_news.csv
       name: COVID news data
-    - url: static_files/lecture_notes/03_LinearRegression.html
+    - url: /static_files/lecture_notes/03_LinearRegression.html
       name: notes (regression)
     # - url: https://google.com
     #   name: slides
