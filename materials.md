@@ -36,6 +36,13 @@ This website also has a ton of phenomenal resources for learning python, probabi
 - [Minitorch, to help understand deep learning tools we will use later in the semester](https://github.com/minitorch/minitorch)
 - [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [DLab @ Berkeley's Computational Social Science](https://github.com/dlab-berkeley/Computational-Social-Science-Training-Program)
+
+## Youtube
+
+Two channels I have really enjoyed while preparing materials for this class:
+- [The aforementioned 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown)
+- [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+
 ## Books
 
 There is no required course textbook. However, I will at times suggest readings from  [Hal Daumé III Course in Machine Learning Book](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf).

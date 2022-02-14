@@ -19,4 +19,5 @@ links:
 ---
 **Suggested Readings:**
 - [Dr. Chandola's Linear Regression Notes](https://mlcourse-ub.readthedocs.io/en/latest/_downloads/1b309eed0d9516c3c0f458a596c7b1b3/linear-regression-handout.pdf)
+- [Hunter Schafer's CSE/STAT 416, Ch. 1](https://cse-stat-416-book.vercel.app/chapters/linear_regression)
 <!-- - [Readings 1](http://example.com) -->
