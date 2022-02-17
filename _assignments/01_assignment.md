@@ -7,7 +7,7 @@ attachment: /static_files/assignments/assignment1.zip
 hide_from_announcments: false
 due_event: 
     type: due
-    date: 2022-02-18T11:59:59+4:30
+    date: 2022-02-21T11:59:59+4:30
     description: 'Programming Assignment #1 due'
 ---
 The attached zip file contains four files. The most important is ```assignment_1_474_s22.ipynb```. This contains the full assignment, including all questions. You will also need the two images (which give details on how to access the reddit API), as well as the csv ```part2_data.csv```, which you will need for parts 2 and 3 (despite the name). The attached PDF simply repeats the questions asked in the jupyter notebook, and tells you how many points each question is worth.
