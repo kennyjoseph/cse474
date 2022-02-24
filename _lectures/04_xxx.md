@@ -1,10 +1,11 @@
 ---
 type: lecture
 date: 2022-02-10
-title: "4. Linear Regression, continued"
+title: "Linear Regression, continued"
 tldr: "Optimization, some evaluation, and some real-world practice"
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true
+lecture_number: 4
 links: 
     - url: /static_files/notebooks/04_LinearRegression2.ipynb
       name: notebook (regression)
