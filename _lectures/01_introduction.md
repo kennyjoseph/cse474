@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2022-02-01
-title: Course Overview
-tldr: "A weclome to the world of machine learning: the good, the bad, and the ugly."
+title: "1. Course Overview"
+tldr: "1. A weclome to the world of machine learning: the good, the bad, and the ugly."
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true
 links: 

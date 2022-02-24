@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-02-10
-title: "Linear Regression, continued"
+title: "4. Linear Regression, continued"
 tldr: "Optimization, some evaluation, and some real-world practice"
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true

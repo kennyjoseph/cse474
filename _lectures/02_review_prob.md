@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-02-03
-title: Review - Syllabus, Probability, and some python
+title: "2. Review - Syllabus, Probability, and some python"
 tldr: "Review - Syllabus, Probability, and some python"
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true

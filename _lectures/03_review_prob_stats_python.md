@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-02-08
-title: Stats and Intro to Linear Regression
+title: "3. Stats and Intro to Linear Regression"
 tldr: ""
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true
