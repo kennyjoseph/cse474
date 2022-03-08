@@ -53,7 +53,8 @@ And, some other (free online) books that you may find useful, and/or that we may
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 - [Statistical Learning with Sparsity](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf)
-- [](http://home.ustc.edu.cn/~zt001062/MaStmaterials/George%20Casella&Roger%20L.Berger--Statistical%20Inference.pdf)
+- [Castella and Berger - Statistical Inference](https://mybiostats.files.wordpress.com/2015/03/casella-berger.pdf)
+- [Intro to Statistical Learning with R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
 
 ## Materials from other classes you might find useful
 
