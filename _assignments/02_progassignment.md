@@ -2,7 +2,7 @@
 type: assignment
 date: 2022-02-23T11:59:59+4:30
 title: 'Programming Assignment #2 - Implementing Prediction Experiments'
-hide_from_announcments: false
+hide_from_announcments: true
 pdf: /static_files/assignments/assignment2.pdf
 attachment: /static_files/assignments/assignment2.zip
 due_event: 
