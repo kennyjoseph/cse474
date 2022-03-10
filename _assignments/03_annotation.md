@@ -49,8 +49,8 @@ Note: This assignment is the only one that will be the same for 474 and 574.
 
 **Step 3. Split the data between annotators** You will need to make sure that each tweet is labeled by exactly two annotators, that each annotator labels exactly 100 tweets, and that all pairs of annotators share exactly 100 tweets together. **Note: For teams with only two people, you can each just label the same 100 tweets, and respond to 1.2.3 with "we only have two people".** The easiest way to do this is as follows:
 - Annotator 1: Tweets 1-100
-- Annotator 2: Tweets 50-150
-- Annotator 3: Tweets 1-50 and 100-150
+- Annotator 2: Tweets 51-150
+- Annotator 3: Tweets 1-50 and 101-150
 
 **Step 4. Do the annotation**  Once you have split the annotations, each of you should do your own annotations separately. The best thing to do is probably to use a google spreadsheet and have each of you perform the annotations in a separate tab. You should follow the following annotation scheme:
 For each tweet, use one of three labels:
