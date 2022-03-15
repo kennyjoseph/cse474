@@ -10,4 +10,4 @@ hide_from_announcments: true
 3. All material in Strongly Suggested/Required Material is fair game
 4. All material covered on the programming assignments is fair game
 5. Multiple choice + short answer
-6. "Answer 10 of 13ish" format
+6. Answer 5 of 7 format
