@@ -32,7 +32,7 @@ Note: This assignment is the only one that will be the same for 474 and 574.
 
 1. Your annotations, in the format described below.
 2. A PDF containing your responses to the questions below.
-3. A python *script* (not a notebook!) containing code to a) compute annotator agreement, and b) for 574, to compare classifiers trained on the different annotator responses. 
+3. A python *script* (not a notebook!) containing code to compute annotator agreement
 
 # Assignment Details
 
