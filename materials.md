@@ -55,6 +55,7 @@ And, some other (free online) books that you may find useful, and/or that we may
 - [Statistical Learning with Sparsity](https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf)
 - [Castella and Berger - Statistical Inference](https://mybiostats.files.wordpress.com/2015/03/casella-berger.pdf)
 - [Intro to Statistical Learning with R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+- [Pattern Recognition and Machine Learning (Bishop)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ## Materials from other classes you might find useful
 
@@ -68,3 +69,4 @@ I found inspiration for our corse from these courses, so you might too!
 - [Dr. Varun Chandola's version of this course](https://mlcourse-ub.readthedocs.io/en/latest/docs.html)
 - [Introduction to Probability Textbook](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
 - [Bayesian Methods for Hackers](https://nbviewer.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb)
+- [Jordan Boyd-Graber's Advanced Data Analysis](http://users.umiacs.umd.edu/~jbg/teaching/INST_414/)
