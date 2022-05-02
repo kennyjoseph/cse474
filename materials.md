@@ -70,3 +70,4 @@ I found inspiration for our corse from these courses, so you might too!
 - [Introduction to Probability Textbook](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
 - [Bayesian Methods for Hackers](https://nbviewer.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb)
 - [Jordan Boyd-Graber's Advanced Data Analysis](http://users.umiacs.umd.edu/~jbg/teaching/INST_414/)
+- [Stanford Computer Vision course](http://cs231n.stanford.edu/)
